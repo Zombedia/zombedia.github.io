@@ -1,2 +1,2 @@
 let d = new Date();
-alert("Today's date is " + d);
+return "Today's date is " + d;
